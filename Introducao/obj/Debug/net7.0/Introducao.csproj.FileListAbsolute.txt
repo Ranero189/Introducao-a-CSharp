@@ -1,0 +1,15 @@
+C:\Users\henri\Documents\C#Projects\Introducao\obj\Debug\net7.0\Introducao.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\C#Projects\Introducao\obj\Debug\net7.0\Introducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\C#Projects\Introducao\obj\Debug\net7.0\Introducao.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\C#Projects\Introducao\obj\Debug\net7.0\Introducao.AssemblyInfo.cs
+C:\Users\henri\Documents\C#Projects\Introducao\obj\Debug\net7.0\Introducao.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\C#Projects\Introducao\bin\Debug\net7.0\Introducao.exe
+C:\Users\henri\Documents\C#Projects\Introducao\bin\Debug\net7.0\Introducao.deps.json
+C:\Users\henri\Documents\C#Projects\Introducao\bin\Debug\net7.0\Introducao.runtimeconfig.json
+C:\Users\henri\Documents\C#Projects\Introducao\bin\Debug\net7.0\Introducao.dll
+C:\Users\henri\Documents\C#Projects\Introducao\bin\Debug\net7.0\Introducao.pdb
+C:\Users\henri\Documents\C#Projects\Introducao\obj\Debug\net7.0\Introducao.dll
+C:\Users\henri\Documents\C#Projects\Introducao\obj\Debug\net7.0\refint\Introducao.dll
+C:\Users\henri\Documents\C#Projects\Introducao\obj\Debug\net7.0\Introducao.pdb
+C:\Users\henri\Documents\C#Projects\Introducao\obj\Debug\net7.0\Introducao.genruntimeconfig.cache
+C:\Users\henri\Documents\C#Projects\Introducao\obj\Debug\net7.0\ref\Introducao.dll
